@@ -7,6 +7,8 @@ a do tretice
 
 a do ctvrtice
 
+a poslední změna
+
 Na Windows, máš-li správně nastavený Git, se použije Poznámkový blok (Notepad) – stačí něco napsat, uložit (Ctrl+S) a zavřít (Alt+F4).
 
 Na Linuxu a macOS se objeví editor v příkazové řádce, který se jmenuje Nano. Pozná se tak, že v dolních dvou řádcích má malou nápovědu. Něco napiš, pomocí Ctrl+O soubor ulož, potvrď jméno souboru (Enter) a pomocí Ctrl+X editor zavři.
