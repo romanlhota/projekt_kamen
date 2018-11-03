@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Název básmě je TATATATATTA
+=======
+﻿jméno auto je PavelPAvel
+>>>>>>> nova_vetev
 
 Jak na editory?
 "tady bude změna"
