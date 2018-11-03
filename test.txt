@@ -1,10 +1,12 @@
 Jak na editory?
-"tady bude zmìna"
+"tady bude zmÄ›na"
 
 tady taky
 
-Na Windows, máš-li správnì nastavenı Git, se pouije Poznámkovı blok (Notepad) – staèí nìco napsat, uloit (Ctrl+S) a zavøít (Alt+F4).
+a do tretice
 
-Na Linuxu a macOS se objeví editor v pøíkazové øádce, kterı se jmenuje Nano. Pozná se tak, e v dolních dvou øádcích má malou nápovìdu. Nìco napiš, pomocí Ctrl+O soubor ulo, potvrï jméno souboru (Enter) a pomocí Ctrl+X editor zavøi.
+Na Windows, mÃ¡Å¡-li sprÃ¡vnÄ› nastavenÃ½ Git, se pouÅ¾ije PoznÃ¡mkovÃ½ blok (Notepad) â€“ staÄÃ­ nÄ›co napsat, uloÅ¾it (Ctrl+S) a zavÅ™Ã­t (Alt+F4).
 
-Nemáš-li Git nastavenı podle instrukcí, objeví se pøímo v pøíkazové øádce Vim – pomìrnì sloitı editor, kterı se teï uèit nebudeme. Pozná se tak, e úplnì spodní øádek je prázdnı. V takovém pøípadì stiskni Esc, napiš :q! (dvojteèka, Q, vykøièník) a potvrï pomocí Enter. Pak si nastav Git a zkus git commit znovu.
+Na Linuxu a macOS se objevÃ­ editor v pÅ™Ã­kazovÃ© Å™Ã¡dce, kterÃ½ se jmenuje Nano. PoznÃ¡ se tak, Å¾e v dolnÃ­ch dvou Å™Ã¡dcÃ­ch mÃ¡ malou nÃ¡povÄ›du. NÄ›co napiÅ¡, pomocÃ­ Ctrl+O soubor uloÅ¾, potvrÄ jmÃ©no souboru (Enter) a pomocÃ­ Ctrl+X editor zavÅ™i.
+
+NemÃ¡Å¡-li Git nastavenÃ½ podle instrukcÃ­, objevÃ­ se pÅ™Ã­mo v pÅ™Ã­kazovÃ© Å™Ã¡dce Vim â€“ pomÄ›rnÄ› sloÅ¾itÃ½ editor, kterÃ½ se teÄ uÄit nebudeme. PoznÃ¡ se tak, Å¾e ÃºplnÄ› spodnÃ­ Å™Ã¡dek je prÃ¡zdnÃ½. V takovÃ©m pÅ™Ã­padÄ› stiskni Esc, napiÅ¡ :q! (dvojteÄka, Q, vykÅ™iÄnÃ­k) a potvrÄ pomocÃ­ Enter. Pak si nastav Git a zkus git commit znovu.
