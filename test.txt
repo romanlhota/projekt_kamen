@@ -1,5 +1,5 @@
 Jak na editory?
-
+"tady bude zmìna"
 Na Windows, máš-li správnì nastavený Git, se použije Poznámkový blok (Notepad) – staèí nìco napsat, uložit (Ctrl+S) a zavøít (Alt+F4).
 
 Na Linuxu a macOS se objeví editor v pøíkazové øádce, který se jmenuje Nano. Pozná se tak, že v dolních dvou øádcích má malou nápovìdu. Nìco napiš, pomocí Ctrl+O soubor ulož, potvrï jméno souboru (Enter) a pomocí Ctrl+X editor zavøi.
